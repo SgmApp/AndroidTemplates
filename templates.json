@@ -3,21 +3,21 @@
     "id": "empty",
     "name": "Empty Activity",
     "description": "Simple Java Activity",
-    "icon": "empty.png",
+    "icon": "empty",
     "url": "https://raw.githubusercontent.com/SgmApp/AndroidTemplates/main/empty.zip"
   },
   {
     "id": "views",
     "name": "Views Activity",
     "description": "XML + Views",
-    "icon": "views.png",
+    "icon": "views",
     "url": "https://raw.githubusercontent.com/SgmApp/AndroidTemplates/main/views.zip"
   },
   {
     "id": "noactivity",
     "name": "No Activity",
     "description": "Blank Project",
-    "icon": "noactivity.png",
+    "icon": "noactivity",
     "url": "https://raw.githubusercontent.com/SgmApp/AndroidTemplates/main/noactivity.zip"
   }
 ]
