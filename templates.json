@@ -1,0 +1,23 @@
+[
+  {
+    "id": "empty",
+    "name": "Empty Activity",
+    "description": "Simple Java Activity",
+    "icon": "empty.png",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/AndroidTemplates/main/empty.zip"
+  },
+  {
+    "id": "views",
+    "name": "Views Activity",
+    "description": "XML + Views",
+    "icon": "views.png",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/AndroidTemplates/main/views.zip"
+  },
+  {
+    "id": "noactivity",
+    "name": "No Activity",
+    "description": "Blank Project",
+    "icon": "noactivity.png",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/AndroidTemplates/main/noactivity.zip"
+  }
+]
