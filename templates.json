@@ -1,30 +1,162 @@
 [
-  {
-    "id": "empty",
-    "name": "Empty Activity",
-    "description": "Simple Java Activity",
-    "icon": "empty",
-    "url": "https://raw.githubusercontent.com/SgmApp/AndroidTemplates/main/empty.zip"
-  },
     {
-    "id": "views",
-    "name": "Views Activity",
-    "description": "XML + Views",
-    "icon": "views",
-    "url": "https://raw.githubusercontent.com/SgmApp/AndroidTemplates/refs/heads/main/emptyactivity.zip"
-  },
-  {
-    "id": "views",
-    "name": "Views Activity",
-    "description": "XML + Views",
-    "icon": "views",
-    "url": "https://raw.githubusercontent.com/SgmApp/AndroidTemplates/main/views.zip"
-  },
-  {
-    "id": "noactivity",
-    "name": "No Activity",
-    "description": "Blank Project",
-    "icon": "noactivity",
-    "url": "https://raw.githubusercontent.com/SgmApp/AndroidTemplates/main/noactivity.zip"
-  }
+        "id": "empty_activity",
+        "name": "Empty Activity",
+        "description": "Create a simple Android app with an empty activity.",
+        "icon": "android",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/empty_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "basic_activity",
+        "name": "Basic Activity",
+        "description": "Create an Android app with a basic activity and standard layout.",
+        "icon": "android",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/basic_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "bottom_navigation_activity",
+        "name": "Bottom Navigation Activity",
+        "description": "Create an app with bottom navigation and multiple screens.",
+        "icon": "navigation",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/bottom_navigation_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "navigation_drawer_activity",
+        "name": "Navigation Drawer Activity",
+        "description": "Create an app with a navigation drawer and multiple screens.",
+        "icon": "navigation",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/navigation_drawer_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "login_activity",
+        "name": "Login Activity",
+        "description": "Create an app with a login screen.",
+        "icon": "login",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/login_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "fullscreen_activity",
+        "name": "Fullscreen Activity",
+        "description": "Create an activity that uses the full screen.",
+        "icon": "fullscreen",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/fullscreen_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "scrolling_activity",
+        "name": "Scrolling Activity",
+        "description": "Create an activity with a scrolling content layout.",
+        "icon": "scroll",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/scrolling_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "tabbed_activity",
+        "name": "Tabbed Activity",
+        "description": "Create an app with multiple tabs.",
+        "icon": "tabs",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/tabbed_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "settings_activity",
+        "name": "Settings Activity",
+        "description": "Create an app with a settings screen.",
+        "icon": "settings",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/settings_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "master_detail_activity",
+        "name": "Master/Detail Activity",
+        "description": "Create an app with a master-detail interface.",
+        "icon": "list",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/master_detail_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "recyclerview_activity",
+        "name": "RecyclerView Activity",
+        "description": "Create an app using RecyclerView with a basic adapter.",
+        "icon": "list",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/recyclerview_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "listview_activity",
+        "name": "ListView Activity",
+        "description": "Create an app using ListView.",
+        "icon": "list",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/listview_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "webview_activity",
+        "name": "WebView Activity",
+        "description": "Create an Android app with a WebView.",
+        "icon": "web",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/webview_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "google_maps_activity",
+        "name": "Google Maps Activity",
+        "description": "Create an Android app containing a Google Maps screen.",
+        "icon": "map",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/google_maps_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "camera_activity",
+        "name": "Camera Activity",
+        "description": "Create an Android app prepared for camera functionality.",
+        "icon": "camera",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/camera_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "bluetooth_activity",
+        "name": "Bluetooth Activity",
+        "description": "Create an Android app prepared for Bluetooth functionality.",
+        "icon": "bluetooth",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/bluetooth_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "navigation_activity",
+        "name": "Navigation Activity",
+        "description": "Create an Android app using navigation between screens.",
+        "icon": "navigation",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/navigation_activity.zip",
+        "language": "Java"
+    },
+    {
+        "id": "compose_empty_activity",
+        "name": "Empty Compose Activity",
+        "description": "Create a simple Jetpack Compose application.",
+        "icon": "compose",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/compose_empty_activity.zip",
+        "language": "Kotlin"
+    },
+    {
+        "id": "compose_basic_activity",
+        "name": "Basic Compose Activity",
+        "description": "Create a Jetpack Compose application with basic UI.",
+        "icon": "compose",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/compose_basic_activity.zip",
+        "language": "Kotlin"
+    },
+    {
+        "id": "compose_navigation_activity",
+        "name": "Compose Navigation Activity",
+        "description": "Create a Jetpack Compose application with navigation.",
+        "icon": "compose",
+        "url": "https://github.com/SgmApp/AndroidTemplates/raw/refs/heads/main/templates/compose_navigation_activity.zip",
+        "language": "Kotlin"
+    }
 ]
